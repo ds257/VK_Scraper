@@ -109,13 +109,7 @@ Collected data is stored in a JSON file (`vk_posts.json`). After each iteration,
 }
 ```
 
-## Alternatives to VK API
 
-If VK API limitations or platform access become a challenge, consider using other social media APIs for election-related data, such as:
-
-- **Twitter API**: Ideal for tracking real-time discussions around election keywords and hashtags.
-- **YouTube Data API**: Useful for gathering videos and comments on election-related videos.
-- **News APIs** (e.g., News API): For gathering news articles from multiple sources, which can supplement social media data with journalistic perspectives.
 
 ## Stopping the Script
 
